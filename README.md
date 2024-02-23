@@ -1,6 +1,6 @@
 # Covid-19-Data-Exploration-SQL
 ## Overview
-This project explores Covid-19 deaths and vaccination data from the source [Dataset: CovidDeaths](https://ourworldindata.org/covid-deaths) This exploratory analysis looks to obtain insights on how the pandemic affected differently each region of the world.
+This project explores Covid-19 deaths and vaccination data from the source [OurWorldInData:CovidDeaths](https://ourworldindata.org/covid-deaths) This exploratory analysis looks to obtain insights on how the pandemic affected differently each region of the world.
 ## Analysis
 Overview of Achievements in the Project:
 
@@ -47,9 +47,9 @@ These SQL queries and analyses collectively provide a comprehensive exploration 
 
 ## Links:
 ### Covid-19 Dataset (CSV)
-[Dataset: Covid Deaths](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv)
+[Dataset: Covid Deaths](https://github.com/FranciscoLoncq/Covid-19-Data-Exploration-SQL/blob/main/CovidDeaths.rar)
 
-[Dataset: Covid Vaccinations](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv)
+[Dataset: Covid Vaccinations](https://github.com/FranciscoLoncq/Covid-19-Data-Exploration-SQL/blob/main/CovidVaccinations.rar)
 
 ### SQL Query
 [Data Exploration Query](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/SQL_Data_Cleaning_Project_NashvilleHousing.sql)
