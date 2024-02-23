@@ -48,6 +48,7 @@ These SQL queries and analyses collectively provide a comprehensive exploration 
 ## Links:
 ### Covid-19 Dataset (CSV)
 [Dataset: Covid Deaths](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv)
+
 [Dataset: Covid Vaccinations](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv)
 
 ### SQL Query
