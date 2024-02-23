@@ -52,7 +52,7 @@ These SQL queries and analyses collectively provide a comprehensive exploration 
 [Dataset: Covid Vaccinations](https://github.com/FranciscoLoncq/Covid-19-Data-Exploration-SQL/blob/main/CovidVaccinations.rar)
 
 ### SQL Query
-[Data Exploration Query](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/SQL_Data_Cleaning_Project_NashvilleHousing.sql)
+[Data Exploration Query](https://github.com/FranciscoLoncq/Covid-19-Data-Exploration-SQL/blob/main/SQL_Data_Exploration_Project_Covid-19.sql)
 
 ### Credits
 Alex Freberg
