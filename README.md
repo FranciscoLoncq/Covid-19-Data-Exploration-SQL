@@ -4,7 +4,7 @@ This project explores Covid-19 deaths and vaccination data from the source [Data
 ## Analysis
 Overview of Achievements in the Project:
 
-## 1. Initial Data Exploration:
+### 1. Initial Data Exploration:
 Retrieved and compared data from the CovidDeaths table, filtering out records where the continent is not specified.
 
 ## 2. Selecting Relevant Data:
