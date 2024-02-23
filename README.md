@@ -19,7 +19,7 @@ Examined the progression of this percentage over time.
 Calculated the infection rate in Argentina by dividing Total_Cases by Population and multiplying by 100.
 Explored the temporal changes in the infection rate.
 
-### 5. Which ountries have the Highest Infection Rates:
+### 5. Which countries have the Highest Infection Rates:
 Identified countries with the highest infection rates compared to their population.
 Calculated the infection rate as a percentage of the population for each country.
 
